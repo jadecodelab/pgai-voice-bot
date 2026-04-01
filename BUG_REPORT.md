@@ -75,7 +75,7 @@ The patient explicitly mentions that the office may be closed and asks when it w
 This ignores the user’s concern and does not answer the question. The agent should confirm whether the office is closed and offer the next available open time instead of proceeding with scheduling.
 
 
-## Bug 83: Agent does not address urgent same-day request or prioritize urgency
+## Bug 8: Agent does not address urgent same-day request or prioritize urgency
 
 **Severity:** High
 **Call:** transcript-10
