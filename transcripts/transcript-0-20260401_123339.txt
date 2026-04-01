@@ -1,0 +1,8 @@
+AGENT: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics. Part of pretty good. A am I speaking with Sarah?
+PATIENT: Hello! Yes, this is Sarah. I would like to book a normal appointment, please. Can you help me with that?
+AGENT: For verification, may I have your date of birth.
+PATIENT: Sure! My date of birth is June 15, 1985.
+AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it.  What type of appointment? Would you like to book? For example, a follow-up consultation a procedure or a physical therapy session? If you're not sure, I can explain the options.
+PATIENT: I would like to book a regular consultation appointment. If you could help me with that, I would appreciate it!
+AGENT: We offered 2 main types of consultations. A new patient consultation and a follow-up consultation since you're an existing patient. Would you like to book a follow-up consultation to review your progress or discuss ongoing care?
+PATIENT: I would like to book a follow-up consultation to review my progress. Thank you!

@@ -1,0 +1,22 @@
+AGENT: This call may be recorded for quality and training purposes.
+PATIENT: Oh, um, okay. I mean, yeah, I guess that makes sense? That sounds, um, important? Just, like, what does that mean for me? I'm not really sure I understand.
+AGENT: Orthopedics, part of pretty good AI. Am I speaking with Sarah?
+PATIENT: Um, I think so? Or maybe not? It's hard to say. I mean, I’m just here, and there are these, uh, questions? But if you’re looking for Sarah, I'm not really sure if that’s me or… someone else? Can you, like, clarify?
+AGENT: No problem. I just want to make sure I'm helping the right person. Are you calling about your own care or are you helping someone else today?
+PATIENT: Uh, well, I think it's about me? Or maybe it's, like, about someone else? I’m not really sure. I mean, I have some questions, but, um, I can't remember everything? It feels a bit mixed up right now.
+AGENT: That's okay, I'm here to help with any questions. You have whether they're about you or someone else.
+PATIENT: Oh, um, okay, great! Questions are, like, floating around in my head. But I’m not sure where to start, you know? Like, are they supposed to be about bones or, uh, something else? I'm just kind of, um, mixed up right now.
+AGENT: 
+PATIENT: Uh, is there something you wanted to say? I’m here, but I’m not sure what’s happening. It’s a bit quiet.
+AGENT: You're doing fine. If you have any questions about the Clinic appointments or your care? Just let me know. I can help with things like scheduling medications or general information.
+PATIENT: Oh, um, thanks! That's nice to hear. I think I might have some questions about appointments? Or maybe it’s about, like, medications? I get a bit lost with all that stuff sometimes. But, um, I’m not sure what exactly. Can you, like, remind me what kinds of things I should be asking about?
+AGENT: Of course, I can help with appointments medication, refills Insurance questions, or general info about the clinic. If you're not sure, you can just tell me what's on your mind, and I'll guide you from there.
+PATIENT: Oh, um, okay, that sounds good! I think I might need, like, help with appointments? Or maybe refills? It’s all kind of jumbled up in my head. Can you help me figure out what to ask? Like, um, what do I need to do next?
+AGENT: Applications first.
+PATIENT: Oh, um, okay! Applications... Right. So, uh, I think I need to know about making an appointment? Or maybe I’m supposed to fill out some forms? I’m not really sure what applications means in this, um, context. Can you, like, explain a bit more?
+AGENT: No worries. When I say appointments. I mean, booking a visit with 1 of our doctors or physical therapists.
+PATIENT: Oh, okay, I think I get it! So, like, if I want to see a doctor or a physical therapist, I need to, um, book a visit? Right? But I’m not sure who to see or, um, when would be good. Can you help me figure that part out, or, like, do I need to bring something? 
+AGENT: Up an appointment or answer questions about your care? Would you like to schedule a visit? Check on an upcoming appointment or talk about something else?
+PATIENT: Oh, um, I think I would like to, uh, maybe schedule a visit? Or, um, is it possible to check if I have any upcoming ones? I’m a bit mixed up about that, honestly. Can you help me decide what’s best? So, like, what should I do?
+AGENT: May I have your first name last name and date of birth.
+PATIENT: Um, oh right, names and dates! Um, I think my first name is... it's, um... let me think... oh! It's something like... uh... do I really have to say my last name too? Because that one’s a bit more complicated. And, um, my date of birth? It’s, like, in the past? So, um, hmm... I think it’s... uh... something like... maybe in the 80s? Or was it the 90s? I'm not really sure. Does that help?

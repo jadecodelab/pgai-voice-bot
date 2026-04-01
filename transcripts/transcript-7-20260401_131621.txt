@@ -1,0 +1,12 @@
+AGENT: this call may be recorded for quality and training purposes, but
+PATIENT: That's okay! I'm happy to assist you. I'm looking to book an appointment for a weekend. Can you help me with that?
+AGENT: Pivot Point Orthopedics part of pretty good AI. Am I speaking with Sarah?
+PATIENT: I’m sorry, but I’m not sure if you’re speaking with Sarah. I’m here to help you with booking an appointment at Pivot Point Orthopedics. Can I assist you with finding a time for a weekend appointment?
+AGENT: I can help you with schedule a new appointment. Pivot Point Orthopedics is open Monday through Friday. So we don't have weekend appointments available.
+PATIENT: I understand. Is there a specific day during the week that would work for you? I can help you find the soonest available appointment on a weekday.
+AGENT: During the week instead.
+PATIENT: Great! What day works best for you during the week? And do you have a preferred time for your appointment?
+AGENT: Nope.
+PATIENT: No problem at all! I can help you find the next available appointment during the week. Would you like me to check availability for you?
+AGENT: Let me check the next available. Weekday appointments for you.
+PATIENT: Thank you! I'll wait for you to check the availability for a weekday appointment. Please let me know what you find!

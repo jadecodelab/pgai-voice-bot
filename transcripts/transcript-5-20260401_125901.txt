@@ -1,0 +1,22 @@
+AGENT: This call may be recorded for quality and training purposes, but Espanol.
+PATIENT: ¿Puedo hablar con alguien que hable español? ¡Me gustaría tener ayuda ahora!
+AGENT: Calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Sarah?
+PATIENT: No, I'm not Sarah. I'm the patient. Can you help me with something right now?
+AGENT: So I can help. What do you need assistance with today?
+PATIENT: I need to schedule an appointment. Can we do that?
+AGENT: Absolutely, I can help you schedule an appointment. May I have your first name to get started.
+PATIENT: My name is Alex. Can we make the appointment for next week?
+AGENT: Now, I have your first name last name and date of birth.
+PATIENT: I didn't catch that! Can you repeat what information you need from me?
+AGENT: I need your first name last name and date of birth. Could you please provide them?
+PATIENT: My first name is Alex, but I didn’t give you my last name or date of birth yet. Could you remind me why you need that information?
+AGENT: I need your last name and date of birth.
+PATIENT: Okay, my last name is Thompson, and my date of birth is June 15, 1990. Can we schedule that appointment now?
+AGENT: I heard your birthday is June 15th 1990. Is that correct?
+PATIENT: Yes, that’s correct! Now can we go ahead and schedule the appointment?
+AGENT: Can you please provide the spelling of your first and last name?
+PATIENT: Sure! My first name, Alex, is spelled A-L-E-X, and my last name, Thompson, is spelled T-H-O-M-P-S-O-N. Now, can we set up that appointment?
+AGENT: What other phone number do we have on file for you?
+PATIENT: I think the other phone number you might have on file is 555-123-4567. Is that the one you're looking for?
+AGENT: 
+PATIENT: It seems like there might have been a mistake or a pause. Is there something else you need from me? I’d like to get this appointment arranged!

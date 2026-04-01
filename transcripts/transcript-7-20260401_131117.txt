@@ -1,0 +1,27 @@
+AGENT: This call may be recorded for quality and training purposes.
+PATIENT: I understand. I would like to book an appointment for the weekend. Could you assist me with that?
+AGENT: Part of pretty good. AI. Am I speaking with Sarah?
+PATIENT: I’m not Sarah, but I’m here to help you with your appointment. What details do you need to book for the weekend?
+AGENT: Thanks for letting me know. Can you tell me the full name and date of birth of the patient? You're helping. I'll get started with scheduling the appointment.
+PATIENT: Sure! The full name is [Your Full Name], and the date of birth is [Your Date of Birth]. Please let me know the available times for the weekend so I can choose one that works for me.
+AGENT: I need the patient's actual name and date of birth to check weekend. Availability.
+PATIENT: I understand. The patient's name is [Your Full Name], and the date of birth is [Your Date of Birth]. Please let me know about the available weekend times!
+AGENT: I'm not able to proceed without the patient's real name and date of birth. Once you provide those details, I can check weekend appointment options
+PATIENT: I apologize for the confusion. Here's the information you need: 
+
+Name: John Doe  
+Date of Birth: January 1, 1990  
+
+Please let me know the available weekend appointment times!
+AGENT: May I have your first name last name and date of birth.
+PATIENT: Sure! My full name is John Doe, and my date of birth is January 1, 1990. How can I assist you further with booking my appointment?
+AGENT: I heard your birthday is January 1st 1990.
+PATIENT: Yes, that's correct! My birthday is January 1, 1990. How can I assist you further with booking my appointment?
+AGENT: Can you please provide the spelling of your first and last name?
+PATIENT: Of course! My first name is spelled J-O-H-N, and my last name is spelled D-O-E. Let me know if you need any more information!
+AGENT: 1 of the phone number. Do we have on file for you?
+PATIENT: The phone number on file for me is (555) 123-4567. If you need anything else, feel free to ask!
+AGENT: I couldn't find a patient record for John Doe.
+PATIENT: I apologize for the confusion. If there is no record for John Doe, I may need to provide different details or register as a new patient. Please let me know what information you need to proceed!
+AGENT: Would you like?
+PATIENT: I would like to book an appointment, preferably on a weekend if possible. Please let me know what information you need from me to proceed!

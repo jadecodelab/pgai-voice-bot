@@ -1,0 +1,8 @@
+AGENT: This call may be recorded for quality and training purposes.
+PATIENT: I understand. How can I assist you today?
+AGENT: Pivot Point Orthopedics part of pretty good AI. Am I speaking with Sarah?
+PATIENT: I'm not Sarah, but I'm here to help you with your inquiry. How can I assist you today?
+AGENT: Thanks for letting me know who are you calling on behalf of and how can I help with their Orthopedic care today?
+PATIENT: I appreciate your assistance! However, I'm trying to book an appointment for orthopedic care, but I believe the office is closed today. Can you help me with that?
+AGENT: I can help you schedule an appointment for Orthopedic care.
+PATIENT: Thank you! However, I think the office is closed today. Can you let me know when the office will be open, so I can book an appointment then?

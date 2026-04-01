@@ -1,0 +1,6 @@
+AGENT: This call may be recorded for quality and training purposes.
+PATIENT: I understand. Can you please provide me with the location and directions to the clinic?
+AGENT: Point Orthopedics, part of pretty good, AI.
+PATIENT: Could you please give me the address for Point Orthopedics and any directions to get there?
+AGENT: The address for pit at Point Orthopedics. Is 220 Athens. Way, Nashville. I can't provide directions but that's the full address. Is there anything else I can help you with today?
+PATIENT: Thank you for the address. Could you please tell me what nearby landmarks or major roads might help me find my way there?

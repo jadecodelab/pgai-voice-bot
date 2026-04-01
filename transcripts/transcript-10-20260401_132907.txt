@@ -1,0 +1,2 @@
+AGENT: This call may be recorded for quality and training purposes.
+PATIENT: Thank you for letting me know. Hi, I’m looking to see if there are any urgent same-day appointment slots available. It's quite pressing, so I would really appreciate your help.

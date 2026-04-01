@@ -1,0 +1,12 @@
+AGENT: This call may be recorded for quality and training purposes.
+PATIENT: Hello, I'd like to ask whether you accept my insurance and what services or treatments are covered.
+AGENT: Part of pretty good. AI. Am I speaking with Sarah?
+PATIENT: I'm not sure who I'm speaking with, but I would just like to inquire about my insurance coverage and whether it is accepted at your office.
+AGENT: You've reached Pivot Point Orthopedics. We do accept most insurance plans just to help with your specific question. Can you confirm if you are Sarah
+PATIENT: I'm not Sarah. I'm just trying to find out if my insurance is accepted and what it covers.
+AGENT: We accept most major insurance plans at Pivot Point Orthopedics.
+PATIENT: That's good to know! Can you tell me if my specific insurance plan is accepted and what services are covered?
+AGENT: Specific coverage. Is there anything else I can help you with today?
+PATIENT: I just need to know more about the specific coverage under my insurance plan. Can you provide that information?
+AGENT: I don't have access to individual insurance plan details for specific coverage. It's best to contact your insurance provider directly.
+PATIENT: I understand. Thank you for the information. I'll reach out to my insurance provider for more specific details.

@@ -1,0 +1,4 @@
+AGENT: this call may be recorded for quality and training purposes, but
+PATIENT: I understand that this call may be recorded. I need assistance with my appointment date, as I believe it is incorrect. Could you please help me with that?
+AGENT: Pivot Point Orthopedics part of pretty good Ai. And I speaking with Sarah,
+PATIENT: Hi Sarah, thank you for taking my call. I believe my appointment date is incorrect, and I would like to clarify or possibly reschedule it. Can you help me with that?
